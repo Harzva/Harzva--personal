@@ -223,7 +223,8 @@ progress::-moz-progress-value {
 .main {
     
     position: relative;;
-    margin-left: 360px;
+    /* margin-left: 360px; */
+    margin: 50px;
     min-height: 100%;
     padding: 20px;
 
